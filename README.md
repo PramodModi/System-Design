@@ -1,2 +1,5 @@
 # System-Design
-Concept of data intensive distributed design
+https://conceptofsystemdesign.blogspot.com/
+
+ 
+

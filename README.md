@@ -18,7 +18,10 @@ https://conceptofsystemdesign.blogspot.com/2023/03/why-distributes-database.html
 https://conceptofsystemdesign.blogspot.com/2023/03/replication.html
 ### Single Leader Replication
 https://conceptofsystemdesign.blogspot.com/2023/03/single-leader-replication.html
-
+### Consensus Algorithm
+https://conceptofsystemdesign.blogspot.com/2023/03/concensus-algorithm.html
+### Paxos Algorithm
+https://conceptofsystemdesign.blogspot.com/2023/03/paxos-algorithm-concensus-algorithm.html
 
 
 

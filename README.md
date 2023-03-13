@@ -22,6 +22,14 @@ https://conceptofsystemdesign.blogspot.com/2023/03/single-leader-replication.htm
 https://conceptofsystemdesign.blogspot.com/2023/03/concensus-algorithm.html
 ### Paxos Algorithm
 https://conceptofsystemdesign.blogspot.com/2023/03/paxos-algorithm-concensus-algorithm.html
+### Distributed Lock
+https://conceptofsystemdesign.blogspot.com/2023/03/distributed-lock-with-redlock.html
+### Distributed Transactions
+https://conceptofsystemdesign.blogspot.com/2023/03/distributed-transaction.html
+### Two phase commit (2PC)
+https://conceptofsystemdesign.blogspot.com/2023/03/two-phase-commit-2pc.html
+### Three-phase commit (3PC)
+https://conceptofsystemdesign.blogspot.com/2023/03/three-phase-commit-3pc.html
 
 
 

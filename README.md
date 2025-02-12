@@ -34,6 +34,7 @@ https://conceptofsystemdesign.blogspot.com/2023/03/three-phase-commit-3pc.html
 
 ## News Letters published on Linked-In
 https://www.linkedin.com/pulse/mastering-transactions-deep-dive-concurrency-data-integrity-modi-zbdkc/?trackingId=Fio7pTX8SxGAwTB3OOmHAw%3D%3D
+
 https://www.linkedin.com/pulse/comprehensive-guide-designing-scalable-hotel-reservation-pramod-modi-g1hpc/?trackingId=H5DK0TYvQBCx56lvHYGHOg%3D%3D
 
 

@@ -1,4 +1,4 @@
-Bolgs Written by me in simple language.
+Bolgs and News letter Written by me in simple language.
 # System-Design
 Root URL : https://conceptofsystemdesign.blogspot.com/
 
@@ -31,6 +31,10 @@ https://conceptofsystemdesign.blogspot.com/2023/03/distributed-transaction.html
 https://conceptofsystemdesign.blogspot.com/2023/03/two-phase-commit-2pc.html
 ### Three-phase commit (3PC)
 https://conceptofsystemdesign.blogspot.com/2023/03/three-phase-commit-3pc.html
+
+## News Letters published on Linked-In
+https://www.linkedin.com/pulse/mastering-transactions-deep-dive-concurrency-data-integrity-modi-zbdkc/?trackingId=Fio7pTX8SxGAwTB3OOmHAw%3D%3D
+https://www.linkedin.com/pulse/comprehensive-guide-designing-scalable-hotel-reservation-pramod-modi-g1hpc/?trackingId=H5DK0TYvQBCx56lvHYGHOg%3D%3D
 
 
 
